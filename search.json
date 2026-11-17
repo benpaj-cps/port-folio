@@ -21,6 +21,48 @@
     "text": "Classic Texts\nThere is much overlapping information in the following old textbooks, and all three teach the “Bach legato”. I would suggest beginning with Stainer and referencing Dupré, with Barnes as a supplemental resource. Stainer dwells longer on the basics, while Dupré quite quickly dives into complicated finger substitutions, etc. Stainer also contains illustrated descriptions of pipe organ key and stop action.\n\n\n\n\n\n\nNote\n\n\n\nThe usual caveats of musical self-study apply here (the risk of engraining ‘bad’ technique, etc.). Of course, the ideal would be to study with an excellent pedagogue within one’s own church tradition. However, where this is not feasible, I am more inclined than most to encourage going it on one’s own, especially because good piano technique forms a solid and necessary basis for organ playing (with a few modifications, described in the textbooks below), and good piano instruction is easier to find. More generally, good technique follows a few simple principles, including:\n\nAlways strive to exert the least effort. The best motion is the simplest, most relaxed, and least irritating (in other words, the “principle of minimal movement” applies). This necessitates a good pianistic foundation of finger strength/independence and natural hand shape at the keyboard.\nBe able to play in perfect legato wherever feasible. Of course, one may decide to use a fingering or pedalling which only allows detached articulation if this is consistent with good interpretation, but only if this is easier and less strenuous (according to the first principle above).\nBegin practicing at a speed which allows conscious control of every motion. When first starting out, this may mean playing one note every five seconds. That’s fine! Start there and progress as able.\n\n\n\n\nThe Organ (1877/1909) by Sir John Stainer (ed. Harker)\nMéthode d’orgue (1927) by Marcel Dupré\nSchool of Organ Playing (1921) by E.S. Barnes"
   },
   {
+    "objectID": "repertoire.html",
+    "href": "repertoire.html",
+    "title": "Repertoire",
+    "section": "",
+    "text": "Although many composers in the broader Western classical canon were also organists and composed for the instrument (J.S. Bach, Mozart, Mendelssohn, Franck, Liszt, Brahms, and Bruckner, to name a few), many central figures in the organ repertoire are relatively unknown to non-organists.\n(to be expanded)"
+  },
+  {
+    "objectID": "repertoire.html#overview",
+    "href": "repertoire.html#overview",
+    "title": "Repertoire",
+    "section": "",
+    "text": "Although many composers in the broader Western classical canon were also organists and composed for the instrument (J.S. Bach, Mozart, Mendelssohn, Franck, Liszt, Brahms, and Bruckner, to name a few), many central figures in the organ repertoire are relatively unknown to non-organists.\n(to be expanded)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benjamin Pajunen - Organist, Pianist",
+    "section": "",
+    "text": "Introduction\nThis is the developing personal portfolio website of Christian classical musican Benjamin Pajunen. While time constraints have thus far prevented the full outbuilding of this website, you are invited in the meantime to peruse the existing contents of the site."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The declining number of active organists in churches holding to historic Christian orthodoxy in recent years has made it more difficult for young musicians to find adequate instruction in playing the instrument.\nHowever:\n\nPipe organ manual (keyboard) technique is an extension of piano technique;\nThere are several time-honored, out-of-copyright textbooks on developing pianists’ technique into that of an organist, available online;\nThere is a wealth of information on the Internet regarding the other aspects of pipe organ playing (registration, interpretation, historical “ear training”, etc.);\nIt can be difficult for the beginning student to find and fully contextualize this information without additional background knowledge.\n\nThis website seeks to make some of these resources more widely available and readily intelligible, so that future organists may more skillfully utilize the King of Instruments to glorify the King of Kings.\nS.D.G."
+  },
+  {
+    "objectID": "about.html#motivation",
+    "href": "about.html#motivation",
+    "title": "About",
+    "section": "",
+    "text": "The declining number of active organists in churches holding to historic Christian orthodoxy in recent years has made it more difficult for young musicians to find adequate instruction in playing the instrument.\nHowever:\n\nPipe organ manual (keyboard) technique is an extension of piano technique;\nThere are several time-honored, out-of-copyright textbooks on developing pianists’ technique into that of an organist, available online;\nThere is a wealth of information on the Internet regarding the other aspects of pipe organ playing (registration, interpretation, historical “ear training”, etc.);\nIt can be difficult for the beginning student to find and fully contextualize this information without additional background knowledge.\n\nThis website seeks to make some of these resources more widely available and readily intelligible, so that future organists may more skillfully utilize the King of Instruments to glorify the King of Kings.\nS.D.G."
+  },
+  {
+    "objectID": "about.html#technical-details",
+    "href": "about.html#technical-details",
+    "title": "About",
+    "section": "Technical details",
+    "text": "Technical details\nThis site was made with Quarto and the Lux Bootswatch theme."
+  },
+  {
     "objectID": "instruments.html",
     "href": "instruments.html",
     "title": "Instruments",
@@ -56,45 +98,10 @@
     "text": "Builder’s Lists\nMost current and some former organbuilders maintain lists of their instruments. A few such are:\n\nSkinner/Aeolian-Skinner (formerly of Methuen and Boston, MA)\nLists of factory specifications; a few photographs. Aeolian-Skinner was the definitive American Classic organbuilder under G. Donald Harrison in the early-to-mid 20th century.\n\n\nCasavant (Saint-Hyacinthe, Quebec)\nOne of the oldest and most prolific builders in North America. Site contains photos of over 30 curated instruments with descriptions and stoplists.\n\n\nC.B. Fisk (Gloucester, MA)\nA leading American mechanical-action builder and pioneer of the use of carbon fiber for tracker action. Site has a geographical list of most of their work."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Statement",
     "section": "",
-    "text": "The declining number of active organists in churches holding to historic Christian orthodoxy in recent years has made it more difficult for young musicians to find adequate instruction in playing the instrument.\nHowever:\n\nPipe organ manual (keyboard) technique is an extension of piano technique;\nThere are several time-honored, out-of-copyright textbooks on developing pianists’ technique into that of an organist, available online;\nThere is a wealth of information on the Internet regarding the other aspects of pipe organ playing (registration, interpretation, historical “ear training”, etc.);\nIt can be difficult for the beginning student to find and fully contextualize this information without additional background knowledge.\n\nThis website seeks to make some of these resources more widely available and readily intelligible, so that future organists may more skillfully utilize the King of Instruments to glorify the King of Kings.\nS.D.G."
-  },
-  {
-    "objectID": "about.html#motivation",
-    "href": "about.html#motivation",
-    "title": "About",
-    "section": "",
-    "text": "The declining number of active organists in churches holding to historic Christian orthodoxy in recent years has made it more difficult for young musicians to find adequate instruction in playing the instrument.\nHowever:\n\nPipe organ manual (keyboard) technique is an extension of piano technique;\nThere are several time-honored, out-of-copyright textbooks on developing pianists’ technique into that of an organist, available online;\nThere is a wealth of information on the Internet regarding the other aspects of pipe organ playing (registration, interpretation, historical “ear training”, etc.);\nIt can be difficult for the beginning student to find and fully contextualize this information without additional background knowledge.\n\nThis website seeks to make some of these resources more widely available and readily intelligible, so that future organists may more skillfully utilize the King of Instruments to glorify the King of Kings.\nS.D.G."
-  },
-  {
-    "objectID": "about.html#technical-details",
-    "href": "about.html#technical-details",
-    "title": "About",
-    "section": "Technical details",
-    "text": "Technical details\nThis site was made with Quarto and the Lux Bootswatch theme."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Benjamin Pajunen - Organist, Pianist",
-    "section": "",
-    "text": "Introduction\nThis is the developing personal portfolio website of Christian classical musican Benjamin Pajunen. While time constraints have thus far prevented the full outbuilding of this website, you are invited in the meantime to peruse the existing contents of the site."
-  },
-  {
-    "objectID": "repertoire.html",
-    "href": "repertoire.html",
-    "title": "Repertoire",
-    "section": "",
-    "text": "Although many composers in the broader Western classical canon were also organists and composed for the instrument (J.S. Bach, Mozart, Mendelssohn, Franck, Liszt, Brahms, and Bruckner, to name a few), many central figures in the organ repertoire are relatively unknown to non-organists.\n(to be expanded)"
-  },
-  {
-    "objectID": "repertoire.html#overview",
-    "href": "repertoire.html#overview",
-    "title": "Repertoire",
-    "section": "",
-    "text": "Although many composers in the broader Western classical canon were also organists and composed for the instrument (J.S. Bach, Mozart, Mendelssohn, Franck, Liszt, Brahms, and Bruckner, to name a few), many central figures in the organ repertoire are relatively unknown to non-organists.\n(to be expanded)"
+    "text": "Much ink has been spilt about the best methodologies to employ in organ and piano instruction. My teaching follows three basic principles: - The intent and purpose of the music is paramount. Service music should serve the church, and all technical and aesthetic considerations are subservient to the goals of worship. While music outside the church allows considerable variety and expression, care should be taken to consider: What values or virtues are being cultivated by this music? In the historical context, what did the composer intend to express? How can these intentions be conveyed in a way that the audience will understand? Music should ultimately be a benefit to those who hear, not a distraction or, worse, only a nuisance. - All technique must be as natural and simple as possible. A great danger in teaching any instrument, particularly a keyboard instrument, is that\nS.D.G."
   }
 ]
