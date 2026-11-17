@@ -1,0 +1,32 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "A Pipe Organ Compendium"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Intro
+      - instruments.qmd
+      - technique.qmd
+      - repertoire.qmd
+      - about.qmd
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Note: this website is in the earliest stages of development, and may contain inaccuracies or incomplete pages. More content to come hopefully in the ensuing weeks."
+    type: primary
+    position: below-navbar
+  page-footer: "Copyright (c) 2026. All rights reserved."
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+    toc: true
+  

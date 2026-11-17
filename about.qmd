@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+## Motivation
+The declining number of active organists in churches holding to historic Christian orthodoxy in recent years has made it more difficult for young musicians to find adequate instruction in playing the instrument. 
+
+However:
+
+* Pipe organ manual (keyboard) technique is an extension of piano technique;
+* There are several time-honored, out-of-copyright [textbooks](./technique.qmd#classic-texts) on developing pianists' technique into that of an organist, available online;
+* There is a wealth of information on the Internet regarding the other aspects of pipe organ playing (registration, interpretation, historical "ear training", etc.);
+* It can be difficult for the beginning student to find and fully contextualize this information without additional background knowledge.
+
+This website seeks to make some of these resources more widely available and readily intelligible, so that future organists may more skillfully utilize the King of Instruments to glorify the King of Kings.
+
+*S.D.G.*
+
+## Technical details
+This site was made with [Quarto](https://quarto.org/) and the [Lux Bootswatch theme](https://bootswatch.com/lux/).

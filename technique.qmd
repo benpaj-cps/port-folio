@@ -1,0 +1,32 @@
+---
+title: "Technique"
+---
+
+## Overview
+Although organ keyboard technique bears obvious resemblance to that of the piano, the fundamental difference is that a key on one of a pipe organ's *manuals* is much more like a switch, and there is no sustain pedal to prolong the note after the key is released.
+
+Therefore, organists must precisely control the timing of the attack and release of the key in order to sculpt articulation and phrasing.
+
+Because the lack of sustain means that a break between notes is more obvious than on the piano, organists make frequent use of pure *legato* articulation, to such an extent that "always play legato" has sometimes been made an axiom, even with the works of J.S. Bach.
+
+On the opposite extreme, the preoccupation with so-called "historically informed practice" in the mid-to-late 20th century meant that some organists used almost exclusively detached or (semi-)staccato articulation for Baroque composers, again including Bach.
+
+Both of these views are severe generalizations that risk sacrificing the musicality and gravitas of many works, especially those of Bach. The correct answer is probably that articulation should be defined by the requirements of the music at hand, taking into reasonable account both the likely intentions of the composer and the specific needs of a given phrase in a given acoustical environment. 
+
+The point of this discursus is that consumption of both the below textbooks and of many Bach organ performances often requires a few grains of salt. 
+<!-- Most texts and recordings before 1940 or so will assume a "strict" legato, while not a few Bach recordings of the '60s and onward are chronically dry with respect to articulation.   -->
+
+## Classic Texts
+There is much overlapping information in the following old textbooks, and all three teach the "Bach legato". I would suggest beginning with Stainer and referencing Dupré, with Barnes as a supplemental resource. Stainer dwells longer on the basics, while Dupré quite quickly dives into complicated finger substitutions, etc. Stainer also contains illustrated descriptions of pipe organ key and stop action.
+
+::: {.callout-note}
+The usual caveats of musical self-study apply here (the risk of engraining 'bad' technique, etc.). Of course, the ideal would be to study with an excellent pedagogue within one's own church tradition. However, where this is not feasible, I am more inclined than most to encourage going it on one's own, especially because good piano technique forms a solid and necessary basis for organ playing (with a few modifications, described in the textbooks below), and good piano instruction is easier to find. More generally, good technique follows a few simple principles, including:
+
+* Always strive to exert the least effort. The best motion is the simplest, most relaxed, and least irritating (in other words, the "principle of minimal movement" applies). This necessitates a good pianistic foundation of finger strength/independence and natural hand shape at the keyboard.
+* Be *able* to play in perfect legato wherever feasible. Of course, one may decide to use a fingering or pedalling which only allows detached articulation if this is consistent with good interpretation, but only if this is ***easier and less strenuous*** (according to the first principle above).
+* Begin practicing at a speed which allows *conscious* control of every motion. When first starting out, this may mean playing one note every five seconds. That's fine! Start there and progress as able.
+:::
+
+* [The Organ](https://imslp.org/wiki/The_Organ_(Stainer,_John)) (1877/1909) by [Sir John Stainer](https://en.wikipedia.org/wiki/John_Stainer) (ed. Harker)
+* [Méthode d'orgue](https://imslp.org/wiki/M%C3%A9thode_d'orgue_(Dupr%C3%A9,_Marcel)) (1927) by [Marcel Dupré](https://en.wikipedia.org/wiki/Marcel_Dupr%C3%A9) 
+* [School of Organ Playing](https://imslp.org/wiki/School_of_Organ_Playing%2C_Op.31_(Barnes%2C_Edward_Shippen)) (1921) by [E.S. Barnes](https://en.wikipedia.org/wiki/Edward_Shippen_Barnes)

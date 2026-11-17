@@ -1,0 +1,17 @@
+---
+title: "A Pipe Organ Compendium"
+format:
+  html:
+    toc: false
+---
+# Introduction
+
+The goal of this site is to assist the student of the pipe organ by collecting and contextualizing some of the many freely available Internet resources pertaining to the instrument.
+
+It is *not* intended as either a complete introduction to the pipe organ or a scholarly review of relevant resources. Rather, it serves to facilitate the rapid discovery and comprehension of some of the many existing resources on a variety of topics that I have found over the years.
+
+Links to the Compendium's resource pages may be found in the header above.
+
+(To whet your intellectual and musical appetite, enjoy this recording of early 20th-century Canadian-American organ virtuoso Lynwood Farnam's *Toccata* by British-Australian organist Simon Nieminski.) 
+
+{{< video https://www.youtube-nocookie.com/embed/PCDsQyvn3So?si=v-xSmoehesnzVrfB >}}
